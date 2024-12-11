@@ -19,3 +19,6 @@ This is a React Native app that demonstrates using **AsyncStorage** and **Redux*
 
 ### Installation
 - npm install
+
+
+<img width="350" alt="Screenshot 2024-12-11 at 04 01 38" src="https://github.com/user-attachments/assets/390caa29-7633-488a-a8f3-f5667cd35180">
