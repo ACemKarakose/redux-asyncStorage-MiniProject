@@ -16,6 +16,10 @@ This is a React Native app that demonstrates using **AsyncStorage** and **Redux*
 - Node.js and npm/yarn installed
 - Expo CLI installed
 - A physical or virtual device to run the app
+#### Screenshots
+<img width="361" alt="Screenshot 2024-12-11 at 04 02 05" src="https://github.com/user-attachments/assets/7c05ebd4-6f51-477d-b16b-c42bba1f1cef">
+
+
 
 ### Installation
 - npm install
